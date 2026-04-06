@@ -3,3 +3,4 @@ built using html css and java script
 random computer choice
 play and test your luck
 instant result (win/lose/draw)
+![App Screenshot](images/screenshot.png)
